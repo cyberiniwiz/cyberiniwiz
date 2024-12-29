@@ -1,4 +1,4 @@
--i, I’m @cyberiniwiz
+- I’m @cyberiniwiz
 
 -🔐 I’m passionate about cybersecurity and ethical hacking
 
